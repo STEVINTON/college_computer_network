@@ -1,0 +1,94 @@
+College Computer network:
+
+Department A:
+
+A - PC1 = 192.168.10.5
+A - PC2 = 192.168.10.6
+A - PC3 = 192.168.10.7
+A - PC4 = 192.168.10.8
+A - PC5 = 192.168.10.2
+A - PC6 = 192.168.10.3
+A - PC7 = 192.168.10.4
+
+Default Gateway = 192.168.10.10
+Switch =  = 192.168.10.1
+SSID (or) PSK key = 20212025
+Console Password = 20212025
+
+Department B:
+
+B - PC1 = 190.10.0.10
+B - PC2 = 190.10.0.11
+B - PC3 = 190.10.0.8
+B - PC4 = 190.10.0.3
+B - PC5 = 190.10.0.12
+B - PC6 = 190.10.0.4
+B - PC7 = 190.10.0.5
+B - PC8 = 190.10.0.6
+B - PC9 = 190.10.0.7
+
+Default Gateway = 190.10.0.15
+Switch = 190.10.0.2
+Wireless Router = 190.10.0.1
+SSID (or) PSK key = 20212025
+Console Password = 20212025
+
+LAB:
+
+L - PC1 = 10.0.0.7
+L - PC2 = 10.0.0.6
+L - PC3 = 10.0.0.5
+L - PC4 = 10.0.0.4
+L - PC5 = 10.0.0.3
+L - PC6 = 10.0.0.2
+
+Default Gateway = 10.0.0.10
+Switch = 10.0.0.1
+Console Password = 20212025
+
+SERVER ROOM:
+
+S - PC1 = 190.10.0.9
+S - PC2 = 190.10.0.3
+DNS = 190.10.0.5
+DHCP = 190.10.0.6
+EMAIL = 190.10.0.8
+FTP = 190.10.0.7
+WEB = 190.10.0.4
+
+Default Gateway = 190.10.0.1
+Switch = 190.10.0.2
+Console Password = 20212025
+	
+S - PC1: 
+Email: user1@gmail.com
+Password: 20212025
+
+S - PC2:
+Email: user2@gmail.com
+Password: 20212025
+
+DNS server:
+-> gmail.com = 190.10.0.8
+-> www.google.com = 190.10.0.4
+
+DHCP server:
+Default Gateway = 190.10.0.1
+DNS server = 190.10.0.5
+Start Ip address = 190.10.0.2
+Max users = 512
+
+EMAIL server:
+Domain Name: gamil.com
+Users:
+-> user1 = 20212025 = user1@gmail.com
+-> user2 = 20212025 = user2@gmail.com
+
+FTP server:
+Users:
+-> user1 = 20212021 = All rights
+-> user2 = 20212025 = All rights
+
+WEB server:
+Domain name: www.google.com
+
